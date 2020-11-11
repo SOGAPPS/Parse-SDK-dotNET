@@ -118,6 +118,7 @@
     <Compile Include="Properties\*.cs" Exclude="Properties\Settings.Designer.cs" />
     <Compile Include="Internal\**\*.cs" Exclude="$(ExcludedPlatformSpecificSourceFilesString)" />
     <Compile Include="Public\**\*.cs" Exclude="$(ExcludedPlatformSpecificSourceFilesString)" />
+    <Compile Include="Public\Partial\ParseAppleUtils.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

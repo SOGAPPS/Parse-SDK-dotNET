@@ -58,6 +58,7 @@
 
       <Compile Include="Internal\**\*.cs" Exclude="$(ExcludedPlatformSpecificSourceFilesString)" />
       <Compile Include="Public\**\*.cs" Exclude="$(ExcludedPlatformSpecificSourceFilesString)" />
+      <Compile Include="Internal\Authentication\AppleAuthenticationProvider.cs" />
   </ItemGroup>
   <PropertyGroup>
     <SignAssembly>false</SignAssembly>

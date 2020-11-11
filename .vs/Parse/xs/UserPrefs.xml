@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{072821C5-D6CC-4480-AA44-78DE79F52297}|Default">
+  <MonoDevelop.Ide.ItemProperties.Parse.Android PreferredExecutionTarget="Android.Nexus_5_API_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Parse/Public/ParseUser.cs">
+    <Files>
+      <File FileName="Parse/Public/ParseUser.cs" Line="587" Column="51" IsPinned="True" />
+      <File FileName="Parse/Public/Partial/ParseAppleUtils.cs" Line="111" Column="49" IsPinned="True" />
+      <File FileName="Parse/Internal/Authentication/AppleAuthenticationProvider.cs" Line="74" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CheapFuel" expanded="True">
+            <Node name="CheapFuel" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="Parse" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>account</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/adesegunadesegun/Documents/1. Work/5.4 Xamarin/CheapFuel/CheapFuel/CheapFuel.iOS/AppDelegate.cs" line="103" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
